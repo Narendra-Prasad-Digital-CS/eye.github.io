@@ -1,0 +1,102 @@
+
+#Container {
+    display: table;
+    text-align: center;
+    font-family: Lucida Console;
+    white-space: nowrap;
+    width: 100%;
+    height: 100%;
+    padding-top: 97px;
+}
+#ContainerMain {
+    text-align: center;
+    font-family: Lucida Console;
+    white-space: nowrap;
+    width: 100%;
+    height: 100%;
+    padding-top: 97px;
+    padding-left: 97px;
+    text-align: center
+}
+#firtsContainer {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#mainContainer {
+    display: table-cell;
+
+}
+
+#lastContainer {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.Container100 {
+    padding-bottom: 111px;
+}
+
+.Container80 {
+    padding-bottom: 54.13px;
+}
+
+.Container40 {
+    padding-bottom: 24.5px;
+}
+
+.Container20 {
+    padding-bottom: 17px;
+}
+
+.ContainerText{
+    padding-bottom: 17px;
+}
+
+.Display_text{
+    display: inline-block;
+    width: 10px;
+}
+.inside100 {
+    display: inline-block;
+    padding-left: 112.29133858px;
+    padding-right: 112.29133858px;
+}
+
+.inside80 {
+    display: inline-block;
+    padding-left: 53.64px;
+    padding-right: 53.64px;
+}
+
+.inside40 {
+    display: inline-block;
+    padding-left: 25.13px;
+    padding-right: 25.13px;
+}
+
+.inside20 {
+    display: inline-block;
+    padding-left: 9.566px;
+    padding-right: 9.566px;
+}
+
+.clsRotate1 {
+    transform: rotate(0deg);
+}
+
+.clsRotate2 {
+    transform: rotate(90deg);
+}
+
+.clsRotate3 {
+    transform: rotate(180deg);
+}
+
+.clsRotate4 {
+    transform: rotate(270deg);
+}
+
+.clsRotate5 {
+    transform: rotate(90deg);
+}
